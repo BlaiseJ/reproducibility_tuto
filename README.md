@@ -1,2 +1,2 @@
-# reproducibility_tuto
-practicing reproducible research using several apps
+# readme
+practicing reproducible research using packages like snakemake
